@@ -29,7 +29,7 @@ with st.container():
         st.write("")
         st.write("") 
         st.write("""
-                **Full Name:** Cristiano Ronaldo dos Santos Aveiro
+                **Full Name:** Cristiano Ronaldo dos Santos Aveiro  
                 **Born:** February 5, 1985   
                 **Current Club:** Al-Nassr FC  
                 **National Team:** Portugal
