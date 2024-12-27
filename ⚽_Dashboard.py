@@ -135,7 +135,7 @@ with st.container():
                 )]
             ),],
             xaxis=dict(
-                title="Year", 
+                title="Season", 
                 type='category',  
                 tickvals=df[timeval],  
                 ticktext=df[timeval].apply(lambda x: str(x)),
