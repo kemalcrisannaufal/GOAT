@@ -32,7 +32,7 @@ with st.container():
                 **Full Name:** Lionel Andrés Messi  
                 **Born:** June 24, 1987  
                 **Current Club:** Inter Miami CF  
-                **National Team:** Argentina**
+                **National Team:** Argentina
                 """
         )
     with col3:
