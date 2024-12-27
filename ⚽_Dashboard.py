@@ -331,7 +331,7 @@ with st.container():
         legend=dict(title="Legend"),
     )
 
-    st.title("Messi vs Ronaldo - Goals in Competitions")
+    st.title("Goals in Competitions")
     st.plotly_chart(fig, use_container_width=True)
 
 
